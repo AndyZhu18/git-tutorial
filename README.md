@@ -1,5 +1,4 @@
 Test Update diff
-<<<<<<< HEAD
-feature-A update
+ - feature-A update
  - fix-B
->>>>>>> fix-B
+ - feature-C
